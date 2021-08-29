@@ -1,6 +1,6 @@
-# 01 - Variable
+# 02 - Tipe Data
 
-Variable pada Python
+Tipe Data pada Python
 
 ## Folder Structure
 
