@@ -54,7 +54,7 @@ urutannya adalah
 
 # contoh
 
-hasil = a + b / b * a ** b - b % (b // a + (b - a))
+hasil = a + b / b * a ** b - b % (b // a + (a - b))
 print(a, '+', b, '/', b, '*', a, '**', b, '-', b, '%', '(',b, '//', a, '+', '(',a, '-', b,')',')', '=', hasil)
 
 """
