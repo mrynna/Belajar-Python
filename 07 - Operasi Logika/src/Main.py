@@ -5,7 +5,7 @@ Operator logika
 1. and  ( & )
 2. or   ( | )
 3. xor  ( ^ )
-4. not  ( ! )
+4. not  ( ~ )
 bisa dituliskan dengan teks maupun simbol, kecuali xor gunakan simbol saja
 """
 
