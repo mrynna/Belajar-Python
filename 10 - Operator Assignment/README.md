@@ -1,6 +1,6 @@
-# 09 - Operator Bitwise
+# 10 - Operator Assignment
 
-Operasi yang dilakukan pada nilai bentuk bit
+Penyederhanaan bentuk Operasi
 
 ## Folder Structure
 
