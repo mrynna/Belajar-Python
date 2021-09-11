@@ -1,6 +1,4 @@
-# 14 - Format String
-
-Pengenalan Format String pada Python
+# 15 - Format String Width and Allignment
 
 ## Folder Structure
 
