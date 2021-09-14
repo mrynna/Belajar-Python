@@ -1,4 +1,4 @@
-# 17 - IF dan ELSE Statement
+# 18 - Elif Statement
 
 ## Folder Structure
 
