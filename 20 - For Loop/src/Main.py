@@ -48,8 +48,9 @@ print(f"\nDecrement dengan range {range(10, 0, -2)}")
 for i in range(10, 0, -2):
     print("Nilai i = ", i)
 
-# Mengimplementasikan for loop dari style bahasa lain
 print("\n=============")
+
+# Mengimplementasikan for loop dari style bahasa lain
 """
 int nilai_awal = 0;
 int nilai_akhir = 20;
