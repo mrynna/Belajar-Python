@@ -1,4 +1,4 @@
-# 23 - Latihan Perulangan
+# 24 - List
 
 ## Folder Structure
 
